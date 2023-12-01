@@ -1,5 +1,8 @@
 # teste-compilador
- projeto da faculdade
+
+pip install tkinter
+pip install ply
+pip install prettytable
 
 Este código Python cria uma interface gráfica simples usando a biblioteca Tkinter para construir um analisador léxico básico. O programa permite que o usuário insira código-fonte em uma área de texto, escolha a linguagem de programação entre Python, Java e PHP, e execute a análise léxica, exibindo os tokens resultantes em uma tabela.
 
